@@ -57,6 +57,7 @@ Applied dropout, batch normalization, and early stopping
 Achieved high accuracy on image classification task
 
 🔗 https://github.com/nana9p5/digit-classification-deep-learning
+
 📫 Contact  
 GitHub: https://github.com/nana9p5
 

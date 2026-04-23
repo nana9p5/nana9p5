@@ -47,9 +47,9 @@ Applied to a real-world urban mobility use case
 
 🔢 Handwritten Digit Classification (Deep Learning)  
 Deep learning project to classify handwritten digits using neural networks.  
-Built a neural network with TensorFlow/Keras
-Applied dropout, batch normalization, and early stopping
-Achieved high accuracy on image classification task
+Built a neural network with TensorFlow/Keras  
+Applied dropout, batch normalization, and early stopping  
+Achieved high accuracy on image classification task  
 🔗 https://github.com/nana9p5/digit-classification-deep-learning
 
 📫 Contact  

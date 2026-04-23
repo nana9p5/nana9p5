@@ -39,7 +39,7 @@ Contribute to innovative data projects in an international environment
 
 📂 Projects  
 🚲 Bike Availability Prediction (Valencia)  
-Machine learning project to predict bike availability 3 hours in advance.  
+Machine learning project to predict bike availability 3 hours in advance  
 Built a regression model (MAE = 2.989)  
 Performed data cleaning, feature engineering, and model evaluation  
 Applied to a real-world urban mobility use case  

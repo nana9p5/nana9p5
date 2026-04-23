@@ -37,6 +37,15 @@ Transition into a Data Scientist role
 Work on AI-driven and predictive models  
 Contribute to innovative data projects in an international environment  
 
+📂 Projects  
+🚲 Bike Availability Prediction (Valencia)  
+Machine learning project to predict bike availability 3 hours in advance.  
+Built a regression model to forecast bike availability  
+Performed data cleaning, feature engineering, and model evaluation (MAE)  
+Applied to a real-world urban mobility use case  
+
+🔗 https://github.com/nana9p5/bike-availability-prediction-valencia
+
 📫 Contact  
 GitHub: https://github.com/nana9p5
 

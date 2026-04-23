@@ -38,6 +38,6 @@ Work on AI-driven and predictive models
 Contribute to innovative data projects in an international environment
 
 📫 Contact
-GitHub: https://github.com/your-username
+GitHub: https://github.com/nana9p5
 
 Always learning and building at the intersection of business and data.

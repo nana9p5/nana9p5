@@ -38,15 +38,15 @@ Work on AI-driven and predictive models
 Contribute to innovative data projects in an international environment  
 
 📂 Projects  
-🚲 Bike Availability Prediction (Valencia)
-Machine learning project to predict bike availability 3 hours in advance.
-Built a regression model (MAE = 2.989)
-Performed data cleaning, feature engineering, and model evaluation
-Applied to a real-world urban mobility use case
-🔗 https://github.com/nana9p5/bike-availability-prediction-valencia
+🚲 Bike Availability Prediction (Valencia)  
+Machine learning project to predict bike availability 3 hours in advance.  
+Built a regression model (MAE = 2.989)  
+Performed data cleaning, feature engineering, and model evaluation  
+Applied to a real-world urban mobility use case  
+🔗 https://github.com/nana9p5/bike-availability-prediction-valencia  
 
-🔢 Handwritten Digit Classification (Deep Learning)
-Deep learning project to classify handwritten digits using neural networks.
+🔢 Handwritten Digit Classification (Deep Learning)  
+Deep learning project to classify handwritten digits using neural networks.  
 Built a neural network with TensorFlow/Keras
 Applied dropout, batch normalization, and early stopping
 Achieved high accuracy on image classification task

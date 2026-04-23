@@ -2,12 +2,12 @@
 
 I'm a Business Analyst with 10+ years of experience, currently transitioning into Data Science and Artificial Intelligence.
 
-🧠 About Me
-🎓 Currently pursuing a Master's in Artificial Intelligence & Big Data Analytics (UPV)
-💼 10+ years experience in data-driven projects and international environments
-🔍 Strong background in business analysis, data analysis, and problem-solving
-🌍 Experienced working with cross-functional and international teams
-💡 Passionate about transforming data into actionable insights and AI-driven solutions
+🧠 About Me  
+🎓 Currently pursuing a Master's in Artificial Intelligence & Big Data Analytics (UPV)  
+💼 10+ years experience in data-driven projects and international environments  
+🔍 Strong background in business analysis, data analysis, and problem-solving  
+🌍 Experienced working with cross-functional and international teams  
+💡 Passionate about transforming data into actionable insights and AI-driven solutions  
 
 🛠️ Technical Skills
 Python (data analysis, scripting)
